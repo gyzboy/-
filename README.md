@@ -4,7 +4,7 @@
 #### 一、插件化
 1. Android-Plugin-Framework  比较普遍的插件化逻辑，读取资源文件，代理插件activity  
    https://github.com/limpoxe/Android-Plugin-Framework
-1. AndroidDynamicLoader 使用Fragment最为UI容器，插件内的Fragment通过配置文件进行映射，访问时通过uri访问
+1. AndroidDynamicLoader 使用Fragment最为UI容器，插件内的Fragment通过配置文件进行映射，访问时通过uri访问  
    https://github.com/mmin18/AndroidDynamicLoader
 1. android-pluginmgr   
    https://github.com/houkx/android-pluginmgr  
@@ -21,8 +21,8 @@
    https://github.com/linkedin/qark
 1. leakcanary   检测内存泄露问题
    https://github.com/square/leakcanary  
-1. stetho  Fackbook的一款开源性能检测工具，可在chrome浏览器直接查看应用状态，网络访问情况等
-   https://github.com/facebook/stetho
+1. stetho  Fackbook的一款开源性能检测工具，可在chrome浏览器直接查看应用状态，网络访问情况等  
+   https://github.com/facebook/stetho  
    打开chrome://inspect 如果遇到白屏，请翻墙。。。	
 1. network-connection-class   同样facebook出品的网络质量检测工具  
    https://github.com/facebook/network-connection-class
@@ -38,10 +38,12 @@
 1. MVVM_Hacker_News  
    https://github.com/hitherejoe/MVVM_Hacker_News
 
-#### 四、构建工具
+#### 四、构建工具、反编译
 1. buck  Fackbook的一款开源构建工具，速度极快  
    https://github.com/facebook/buck
-	
+1. jadx  比jd-gui让人看得更明白^.^  
+   https://github.com/skylot/jadx 
+
 #### 五、React  
 1. ZhiHuDaily-React-Native  
    https://github.com/race604/ZhiHuDaily-React-Native
