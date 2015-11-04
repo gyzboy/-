@@ -67,3 +67,9 @@
 #### 八、资源混淆  
 1. AndResGuard   微信的资源混淆方案，思路是替换打包好的apk文件中的resources.arsc和资源文件，然后通过7zip压缩达到混淆和减小安装包体积的目的  
    https://github.com/shwenzhang/AndResGuard
+
+#### 九、A/B测试
+1. sixpack-java  一个开源的A/B测试框架  
+   https://github.com/seatgeek/sixpack-java  
+   使用前需要安装sixpack的service  
+   https://github.com/seatgeek/sixpack#getting-started
