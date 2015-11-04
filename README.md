@@ -47,6 +47,7 @@
    https://github.com/race604/ZhiHuDaily-React-Native
 1. JianDan-React-Native  
    https://github.com/w4lle/JianDan-React-Native
+
 #### 六、热加载  
 1. AndFix   阿里出品的可以在线修复BUG工具  
    https://github.com/alibaba/AndFix
@@ -58,7 +59,11 @@
    https://github.com/promeG/XLog
 1. Hotpatch-Sample   使用dexposed热补丁例子  
    https://github.com/fengcunhan/Hotpatch-Sample
+
 #### 七、系统状态收集   
 1. collectd  
    https://github.com/collectd/collectd
-		  
+
+#### 八、资源混淆  
+1. AndResGuard   微信的资源混淆方案，思路是替换打包好的apk文件中的resources.arsc和资源文件，然后通过7zip压缩达到混淆和减小安装包体积的目的  
+   https://github.com/shwenzhang/AndResGuard
