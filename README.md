@@ -16,7 +16,7 @@
 1. Android-Skin-Loader 插件化原理实现的换肤  
    https://github.com/fengjundev/Android-Skin-Loader
 
-#### 二、漏洞、性能检测
+#### 二、漏洞、性能相关
 1. qark  Quick Android Review Kit 一款查看android应用漏洞的工具，很强大  
    https://github.com/linkedin/qark
 1. leakcanary   检测内存泄露问题
@@ -26,6 +26,10 @@
    打开chrome://inspect 如果遇到白屏，请翻墙。。。	
 1. network-connection-class   同样facebook出品的网络质量检测工具  
    https://github.com/facebook/network-connection-class
+1. FlatBuffs   Google出品的一个序列化库，对于JSON解析慢的问题有了较大提升  
+   二进制形式缓存，无需初始化解析器  
+   无需分配比自身缓冲区更大的内存  
+   这是一个例子  https://github.com/frogermcs/FlatBuffs
 
 
 #### 三、MVVM开发  最近在android上很火，Model-view-viewModel  
