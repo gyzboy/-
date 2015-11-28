@@ -15,6 +15,8 @@
    https://github.com/bunnyblue/ACDD
 1. Android-Skin-Loader 插件化原理实现的换肤  
    https://github.com/fengjundev/Android-Skin-Loader
+1. DynamicAPK  携程出品的插件化工具  
+   https://github.com/CtripMobile/DynamicAPK
 
 #### 二、漏洞、性能相关
 1. qark  Quick Android Review Kit 一款查看android应用漏洞的工具，很强大  
