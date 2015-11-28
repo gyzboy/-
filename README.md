@@ -43,6 +43,8 @@
    https://github.com/facebook/buck
 1. jadx  比jd-gui让人看得更明白^.^  
    https://github.com/skylot/jadx 
+1. bazel  Google的开源构建工具
+   https://github.com/bazelbuild/bazel
 
 #### 五、React  
 1. ZhiHuDaily-React-Native  
@@ -75,3 +77,9 @@
    https://github.com/seatgeek/sixpack-java  
    使用前需要安装sixpack的service  
    https://github.com/seatgeek/sixpack#getting-started
+
+#### 十、调试、反编译
+1. Andbug  动态调试工具，已经不更新了，可抓取请求参数什么的，想获取请求参数什么的很好用  
+   https://github.com/swdunlop/AndBug  
+   想在浏览器查看请求信息需要安装python的bottle包  
+   遇到连接不上查看下是不是IDE开着，需关闭
