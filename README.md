@@ -47,6 +47,8 @@
    https://github.com/skylot/jadx 
 1. bazel  Google的开源构建工具
    https://github.com/bazelbuild/bazel
+1. Andbug 动态调试，在线可以获取应用的一些例如请求等的信息，可用于反编译  
+   https://github.com/swdunlop/AndBug
 
 #### 五、React  
 1. ZhiHuDaily-React-Native  
