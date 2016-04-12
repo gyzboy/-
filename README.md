@@ -87,6 +87,7 @@
    https://github.com/swdunlop/AndBug  
    想在浏览器查看请求信息需要安装python的bottle包  
    遇到连接不上查看下是不是IDE开着，需关闭
+
 #### 十一、收集的好用的工具类
 1. AutoValue 一个google出品的java对象的自动生成工具，可以通过注解的方式自动生成equals、hashcode等方法
    https://github.com/google/auto/
