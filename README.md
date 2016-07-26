@@ -93,5 +93,8 @@
    https://github.com/google/auto/
 1. Vectalign 一个将图片自动生成SVG路径的工具
    https://github.com/bonnyfone/vectalign
-1. ClassyShark 亲爹出的代码统计工具，可计算代码中代码量等，功能比较多，还可集成到java代码中，强大
+1. ClassyShark google出的代码统计工具，可计算代码中代码量等，功能比较多，还可集成到java代码中，强大
    https://github.com/google/android-classyshark
+1. AndroidMultiChannelBuildTool一个应对友盟多渠道打包的小工具，基本原理就是在META-INF文件夹下新建不同渠道名命名的文件，然后在java代码中通过读取文件名然后给友盟sdk中赋值不同的渠道名来实现多渠道，免去了每修改一次渠道名就打包一次，只需复制一个apk，修改文件名即可
+  https://github.com/GavinCT/AndroidMultiChannelBuildTool
+   
