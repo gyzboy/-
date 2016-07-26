@@ -91,3 +91,7 @@
 #### 十一、收集的好用的工具类
 1. AutoValue 一个google出品的java对象的自动生成工具，可以通过注解的方式自动生成equals、hashcode等方法
    https://github.com/google/auto/
+1. Vectalign 一个将图片自动生成SVG路径的工具
+   https://github.com/bonnyfone/vectalign
+1. ClassyShark 亲爹出的代码统计工具，可计算代码中代码量等，功能比较多，还可集成到java代码中，强大
+   https://github.com/google/android-classyshark
