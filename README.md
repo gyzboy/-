@@ -95,6 +95,10 @@
    https://github.com/bonnyfone/vectalign
 1. ClassyShark google出的代码统计工具，可计算代码中代码量等，功能比较多，还可集成到java代码中，强大
    https://github.com/google/android-classyshark
-1. AndroidMultiChannelBuildTool一个应对友盟多渠道打包的小工具，基本原理就是在META-INF文件夹下新建不同渠道名命名的文件，然后在java代码中通过读取文件名然后给友盟sdk中赋值不同的渠道名来实现多渠道，免去了每修改一次渠道名就打包一次，只需复制一个apk，修改文件名即可
+1. AndroidMultiChannelBuildTool一个应对友盟多渠道打包的小工具，基本原理就是在META-INF文件夹下新建不同渠道名命名的文件，然后在java代码中通过读取文件名然后给友盟sdk中赋值不同的渠道名来实现多渠道，免去了每修改一次渠道名就打包一次，只需复制一个apk，修改文件名即可  
   https://github.com/GavinCT/AndroidMultiChannelBuildTool
+1. libphoneNumber  google的一个手机号码lib包，用于格式化、验证手机号码，在android 4.0以后智能手机里用的就是这一套^_^
+  https://github.com/googlei18n/libphonenumber
+1. dexCount 一个gradle插件，可以在编译完成后统计出代码量，需要JDK 1.8 ，但好像对多dex包支持的不太好，竟然出现了超100%的情况...
+  https://github.com/KeepSafe/dexcount-gradle-plugin
    
